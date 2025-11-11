@@ -1,4 +1,4 @@
-https://tohindia.github.io/timesofhemp/sitemap.xml
+https://tohindia.github.io/sitemap.xml
 
 User-agent: *
 Allow: /
